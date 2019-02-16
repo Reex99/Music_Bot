@@ -2,7 +2,7 @@ token=NTQ2NDIzODMxMDM2NjkwNDQz.D0oAig.GcBV1xT_AFQZD_paXbufaq0XG-s
 
 owner=352222161559093269
 
-prefix="r"
+prefix="*-"
 
 status=IDLE
 
